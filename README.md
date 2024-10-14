@@ -1,4 +1,4 @@
-# flynt
+# flynt (discontinued cuz facedev decided to discontinue Lyntr😢)
 Make Lyntr your own.
 # what is flynt?
 Flynt is an open source customization extension used for customizing the Lyntr webpage
